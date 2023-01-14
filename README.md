@@ -6,4 +6,4 @@ Each directory in this repo is a context students could design for and contains 
 with information for that contexts.
 
 Here are the provided contexts:
-- [Weather Alert](weather/]
+- [Weather Alert](weather/)
