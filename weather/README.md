@@ -3,7 +3,7 @@ This directory contains HTML and CSS for a page alerting users to a typhoon warn
 
 ## Context
 This page should be designed as an official government warning of potential danger that needs to be urgently communicated to citizens.
-The original warning can be found [here](https://web.archive.org/web/20221031083801/http://www.hko.gov.hk/textonly/warning/ea.ht)
+The original warning can be found [here](https://web.archive.org/web/20221031083801/http://www.hko.gov.hk/textonly/warning/ea.ht).
 
 ## HTML
 You can find the HTML for this page in the `index.html` file. You may need to edit this file in order to add more `div` structures or
