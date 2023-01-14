@@ -7,3 +7,4 @@ with information for that contexts.
 
 Here are the provided contexts:
 - [Weather Alert](weather/)
+- [Amusement Park](amusement/)
