@@ -1,4 +1,4 @@
-# Amuesment
+# Amusement
 This directory contains HTML and CSS for a page advertising a Water World in Hong Kong.
 
 ## Context
