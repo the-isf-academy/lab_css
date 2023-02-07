@@ -1,7 +1,6 @@
-# Styling Information Lab (CSS)
+# lab_css
 
-This lab introduces students to CSS styling by having them design the style for a webpage to
-communicate information in a particular context.
+In this lab, each student will be the designer and the developer. Each student will select a context to design for and then exchange design sheets with their partners. They are then in charge of bringining their partner's design to life. 
 
 The `/amusement` and `/weather` directories are different contexts students will design for and contains an HTML document
 with information for that contexts.
@@ -12,14 +11,11 @@ Here are the provided contexts:
 
 The `/flexbox_example` directory contains code for creating a side-by-side content. 
 
----
 
-### Instructions
-
-✏️ **Complete the design worksheet:**
+✏️ **First, complete the design worksheet.** 
 
 
-💻 **Exchange design documents and implement your partners design in `HTML` and `CSS`.** This will require you to write `CSS` rules for various HTML elements. You may even want to implement `class` and `id` selectors for layout components and finer tuning of aesthetic design. 
+💻 **Second, exchange design documents and implement your partners design in `HTML` and `CSS`.** This will require you to write `CSS` rules for various HTML elements. You may even want to implement `class` and `id` selectors for layout components and finer tuning of aesthetic design. 
 
 ---
 
