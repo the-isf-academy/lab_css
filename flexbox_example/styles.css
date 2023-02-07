@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+    gap: 20px
+}
+
+.container div{
+    padding: 20px;
+}
+
+#sub_box1{
+    background-color: rgb(222, 222, 255);
+    flex-shrink: 5;
+}
+
+#sub_box2{
+    background-color: rgb(255, 216, 216);
+
+ 
+}
+
+
+#sub_box3{
+    background-color: rgb(216, 255, 234);
+ 
+}

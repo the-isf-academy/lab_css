@@ -1,2 +1,10 @@
 /* Add your CSS here */
 
+.container{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container img{
+    width: 25%;
+}
