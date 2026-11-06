@@ -9,3 +9,14 @@ html{
     font-family: 'Helvetica', sans-serif;
 }
 
+
+.flexbox-grid{
+    display: flex;
+    gap: 20px; 
+}
+
+.column{
+    background-color: rgb(255, 243, 203);
+    padding: 0px 20px;
+    flex: 1;
+}
